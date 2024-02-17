@@ -1,11 +1,18 @@
 * {
-  background-color: gold;
-  color: black;
+  /* background-color: gold; */
+  /* color: black; */
+}
+marquee {
+  height: 80px;
+  background-color: black;
+  color: white;
+  padding-top: 30px;
 }
 .card_container {
   /* background-color: none !important;
    */
   text-align: center;
+  background-color: gold;
 }
 p {
   padding: 30px;
@@ -39,12 +46,14 @@ p {
 .card_child {
   width: 400px;
 }
-
-.menu_image {
+.menu_section {
+  background-color: #ffd700;
+}
+/* .menu_image {
   background-image: url(./images/85291IMG_3966_web.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-}
+} */
 .main_carousel {
   height: 600px;
   overflow: hidden;
