@@ -12,6 +12,7 @@ p {
 }
 .description {
   width: 30%;
+  text-align: center;
 }
 .menu_image {
   width: 70%;
@@ -45,7 +46,7 @@ p {
   background-repeat: no-repeat;
 }
 
-top-container {
+.top-container {
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
