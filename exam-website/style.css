@@ -1,0 +1,46 @@
+* {
+  background-color: gold;
+  color: black;
+}
+.card_container {
+  /* background-color: none !important;
+   */
+  text-align: center;
+}
+p {
+  padding: 30px;
+}
+.description {
+  width: 30%;
+}
+.menu_image {
+  width: 70%;
+  height: 500px;
+  background-image: url(./images/85291IMG_3966_web.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img_div {
+  height: 400px;
+  width: 500px;
+  /* width: 400px; */
+  background-image: url(./images/85291IMG_3966_web.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.second_child {
+  height: 400px;
+  width: 500px;
+  background-image: url(./images/98058IMG_1800.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card_child {
+  width: 50%;
+}
+
+.menu_image {
+  background-image: url(./images/85291IMG_3966_web.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
