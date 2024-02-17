@@ -9,8 +9,7 @@ marquee {
   padding-top: 30px;
 }
 .card_container {
-  /* background-color: none !important;
-   */
+  width: 100%;
   text-align: center;
   background-color: gold;
 }
